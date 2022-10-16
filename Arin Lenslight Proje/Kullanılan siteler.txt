@@ -1,0 +1,50 @@
+Html Hazır Template
+https://html.design/download/lenslight-photography-website-template/
+
+Bcrypt: şifreleri gizlemek için
+https://www.npmjs.com/package/bcrypt
+
+cloudinary: media platformu
+https://cloudinary.com/
+fotoları yüklediğimiz yer
+https://www.npmjs.com/package/cloudinary
+
+cookie-parser: json web tokenu saklamak için
+https://www.npmjs.com/package/cookie-parser
+
+dotenv: çevre değişkenliği
+https://www.npmjs.com/package/dotenv
+
+ejs: template engine
+https://www.npmjs.com/package/ejs
+
+express: nodejs framework
+https://www.npmjs.com/package/express
+https://expressjs.com/
+
+express-file: upload dosya yükleme
+https://www.npmjs.com/package/express-fileupload
+
+jsonwebtoken:authorization için (yetki)
+https://jwt.io/
+https://www.npmjs.com/package/jsonwebtoken
+
+method-override: güncelleme ve silme işlemleri için
+Put Metodu İçin
+https://www.npmjs.com/package/method-override
+
+mongoosee: object mapping(şema)
+https://www.npmjs.com/package/mongoose
+https://mongoosejs.com/docs/guide.html
+
+nodemailer: mail göndermek için
+https://www.npmjs.com/package/nodemailer
+
+validator: onaylama için
+https://www.npmjs.com/package/validator
+
+nodemon: otomatik sunucu başlatma
+https://www.npmjs.com/package/nodemon
+
+thunder: client api client
+https://www.thunderclient.com/
